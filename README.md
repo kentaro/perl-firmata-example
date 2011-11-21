@@ -7,4 +7,4 @@
   - consumer_secret
   - access_token
   - access_token_secret
-- set MyArduino->new(device => '/path/to/device'). The default is `/dev/tty.SLAB_USBtoUART'
+- set a device path, `MyArduino->new(device => '/path/to/device')`. The default is `/dev/tty.SLAB_USBtoUART`.
