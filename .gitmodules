@@ -1,0 +1,3 @@
+[submodule "modules/perl-firmata"]
+	path = modules/perl-firmata
+	url = https://github.com/amimoto/perl-firmata.git
